@@ -1,1 +1,1 @@
-# my-new-game
+# new-game
